@@ -1,4 +1,4 @@
-# Banking-System
+# Nitish Kapoor Banking-System
 This is a repository that I created on this day of 15th July
 Sparks Foundation Internship Project : Basic Banking System
 A Web Application used to transfer money between multiple users.
